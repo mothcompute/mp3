@@ -1,7 +1,7 @@
-#include "mp3.h"
+#include <mp3.h>
 
-#include "huffman.h"
-#include "dat.h"
+#include <huffman.h>
+#include <dat.h>
 
 // TODO autodetect endianness here
 #define fromle(x) (x)

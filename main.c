@@ -1,4 +1,4 @@
-#include "mp3.h"
+#include <mp3.h>
 
 int main(int argc, char** argv) {
 	

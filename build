@@ -1,0 +1,1 @@
+cc -Iinc -O3 main.c mp3.c -o mp3
