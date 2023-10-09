@@ -1,0 +1,3 @@
+echo -e ", {\t\t\t\t\t\t\t// $1"
+eval `wl-paste|sed 's/^/\.\/huffcvt /g;s/$/;/g'`
+echo -ne '\t}'
